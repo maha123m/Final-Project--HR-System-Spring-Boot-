@@ -1,5 +1,3 @@
-# Final-Project--E commerce-Spring-Boot-
-
 # E-commerce System - Final Project
 
 ## Project Overview
